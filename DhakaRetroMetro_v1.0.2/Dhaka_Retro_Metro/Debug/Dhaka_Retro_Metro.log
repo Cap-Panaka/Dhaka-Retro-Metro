@@ -1,0 +1,28 @@
+﻿Build started 4/16/2026 5:54:17 AM.
+     1>Project "E:\DhakaRetroMetro_v1.0.2\DhakaRetroMetro_v1.0.2\Dhaka_Retro_Metro\Dhaka_Retro_Metro.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio 2013 Professional\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+       Link:
+         D:\Visual Studio 2013 Professional\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\DhakaRetroMetro_v1.0.2\DhakaRetroMetro_v1.0.2\Debug\Dhaka_Retro_Metro.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\DhakaRetroMetro_v1.0.2\DhakaRetroMetro_v1.0.2\Debug\Dhaka_Retro_Metro.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\DhakaRetroMetro_v1.0.2\DhakaRetroMetro_v1.0.2\Debug\Dhaka_Retro_Metro.lib" /MACHINE:X86 Debug\iMain.obj
+         Debug\loading_screen.obj
+         Debug\menu_screen.obj
+         Debug\leaderboard_screen.obj
+         Debug\help_screen.obj
+         Debug\credits_screen.obj
+         Debug\settings_screen.obj
+         Debug\audio.obj
+         Debug\choose_screen.obj
+         Debug\level_screen.obj
+         Debug\level_1.obj
+         Debug\level_2.obj
+         Debug\level_3.obj
+         Debug\level_4.obj
+         Debug\name_input_screen.obj
+         Debug\sudoku.obj
+         Dhaka_Retro_Metro.vcxproj -> E:\DhakaRetroMetro_v1.0.2\DhakaRetroMetro_v1.0.2\Debug\Dhaka_Retro_Metro.exe
+     1>Done Building Project "E:\DhakaRetroMetro_v1.0.2\DhakaRetroMetro_v1.0.2\Dhaka_Retro_Metro\Dhaka_Retro_Metro.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.61
