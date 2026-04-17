@@ -91,12 +91,12 @@ Make sure you have the following installed:
 
 ## Project Contributors
 
-| | Name | 'ID' | 
+| | Name | `ID` | 
 | :---: |:--- | :---: |
-| 1. | Rif Ahsan Rif | '00724205101042' |
-| 2. | MD. Fazle Rabbi | '00724205101046' |
-| 3. | MD. Sadman Zuhayer Rakim | '00724205101048' |
-| 4. | MD. Nafiz Khan | '00724205101064' |
+| 1. | Rif Ahsan Rif | `00724205101042` |
+| 2. | MD. Fazle Rabbi | `00724205101046` |
+| 3. | MD. Sadman Zuhayer Rakim | `00724205101048` |
+| 4. | MD. Nafiz Khan | `00724205101064` |
 
 ## Screenshots
 
