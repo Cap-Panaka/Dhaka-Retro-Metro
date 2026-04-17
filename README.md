@@ -15,6 +15,31 @@ In this retro-inspired world, players take control of **Kakashi Hatake** on a mi
 - **Modern Retro Aesthetic**: A polished UI featuring neon glow effects, motion-blur loading screens, and cinematic story transitions.
 - **Competitive Leaderboard**: Compete for the fastest "Ninja Time" and save your scores to a persistent leaderboard.
 
+---
+
+## 👥 Meet the Cast
+
+### The Hero
+| Character | Sprite | Description |
+| :--- | :---: | :--- |
+| **Hatake Kakashi** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Hatake%20Kakashi/Stance%20Right/StanceRight1.png" width="50"> | The Copy Ninja. Fast, versatile, and lethal with both kunai and jutsu. |
+
+### Legendary Villains
+| Character | Sprite | Background |
+| :--- | :---: | :--- |
+| **Itachi Uchiha** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Itachi%20Uchiha/Stance%20RIght/StanceRight_0000_sprite_3.png" width="50"> | Master of Genjutsu. A formidable foe awaiting in the later stages. |
+| **Orochimaru** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Orochimaru/Stance%20Right/Orochimaru_0000_sprite_77.png" width="50"> | The Sannin seeking immortality. A dangerous mastermind lurking in the shadows. |
+| **Deidara** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Deidara/Stance%20Right/StanceRight_0006_sprite_1.png" width="50"> | The explosion artist. Watch out for his clay creations! |
+| **Sasori** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sasori/Stance%20Right/Stance%20Right_0.png" width="50"> | The master puppeteer. His mechanical strikes are ruthless. |
+
+### Minions & Machines
+| Character | Sprite | Description |
+| :--- | :---: | :--- |
+| **Puppet Enemy** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Puppet%20Enemy/Right/Right_0.png" width="50"> | Mechanical creations controlled by strings. Unrelenting and resilient. |
+| **Sand Enemy** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sand%20Enemy/Stance%20Right/Right_0005_sprite_1.png" width="50"> | Standard grunts of the Sand Village. Strength in numbers. |
+
+---
+
 ## Project Details
 IDE: Visual Studio 2012 / 2013
 
@@ -74,13 +99,19 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### **Main Menu**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Menu.jpeg" width="400" height="auto">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Menu.jpeg" width="400">
 
 ### **Tactical Sudoku Gate**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Sudoku.jpeg" width="400" height="auto">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Sudoku.jpeg" width="400">
 
 ### **Gameplay: Arena Battle**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_2.jpeg" width="400" height="auto">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_2.jpeg" width="400">
+
+### **Environmental Detail**
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_1(2).jpeg" width="400">
+
+### **Secret Victory Codes**
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Code.jpg" width="400">
 
 ## Youtube Link
 [Dhaka Retro Metro Gameplay Video]()
