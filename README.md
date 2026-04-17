@@ -12,9 +12,15 @@
 
 ## 📸 In-Game Action
 
+### Gameplay Highlights
 | Exploring Level 1 | Battle Sequence (Level 2) | Sudoku Logic Gate |
 | :---: | :---: | :---: |
 | ![Level 1](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_1.jpeg) | ![Level 2](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_2.jpeg) | ![Sudoku](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Sudoku.jpeg) |
+
+### Environmental Detail
+| Dynamic Environments | Intense Combat | Secret Victory Codes |
+| :---: | :---: | :---: |
+| ![Level 1 Alt](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_1(2).jpeg) | ![Level 2 Alt](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_2(2).jpeg) | ![Secret Code](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Code.jpg) |
 
 ---
 
@@ -29,12 +35,14 @@
 | Character | Sprite | Background |
 | :--- | :---: | :--- |
 | **Itachi Uchiha** | ![Itachi](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Itachi%20Uchiha/Stance%20RIght/StanceRight_0000_sprite_3.png) | Master of Genjutsu. A formidable foe awaiting in the later stages. |
+| **Orochimaru** | ![Orochimaru](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Orochimaru/Stance%20Right/Orochimaru_0000_sprite_77.png) | The Sannin seeking immortality. A dangerous mastermind lurks in the shadows. |
 | **Deidara** | ![Deidara](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Deidara/Stance%20Right/StanceRight_0006_sprite_1.png) | The explosion artist. Watch out for his clay creations! |
 | **Sasori** | ![Sasori](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sasori/Stance%20Right/Stance%20Right_0.png) | The master puppeteer. His mechanical strikes are ruthless. |
 
-### Minions
+### Minions & Machines
 | Character | Sprite | Description |
 | :--- | :---: | :--- |
+| **Puppet Enemy** | ![Puppet](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Puppet%20Enemy/Right/Right_0.png) | Mechanical creations controlled by strings. Unrelenting and resilient. |
 | **Sand Enemy** | ![Sand Enemy](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sand%20Enemy/Stance%20Right/Right_0005_sprite_1.png) | Standard grunts of the Sand Village. Strength in numbers. |
 
 ---
@@ -94,3 +102,4 @@
 ## 📄 License
 
 This project is licensed under the MIT License.
+
