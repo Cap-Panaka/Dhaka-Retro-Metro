@@ -116,7 +116,7 @@ Make sure you have the following installed:
 <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Code.jpg" width="400">
 
 ## Youtube Link
-[Dhaka Retro Metro Gameplay Video]()
+[Dhaka Retro Metro Gameplay Video](https://youtu.be/DIpeKuX1OBg?si=6HZOx7K42rnKNbEN)
 
 ## Project Report
 [Project Report: Dhaka Retro Metro](DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Project%20Final%20Report-Group%208(A2).pdf)
