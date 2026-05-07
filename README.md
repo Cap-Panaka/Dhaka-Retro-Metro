@@ -1,4 +1,4 @@
-# Dhaka Retro Metro
+# Dhaka Retro-Metro
 
 <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Dhaka-Retro-Metro.jpeg" width="100%">
 
@@ -22,21 +22,21 @@ In this retro-inspired world, players take control of **Kakashi Hatake** on a mi
 ### The Hero
 | Character | Sprite | Description |
 | :--- | :---: | :--- |
-| **Hatake Kakashi** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Hatake%20Kakashi/Stance%20Right/StanceRight1.png" width="50"> | The Copy Ninja. Fast, versatile, and lethal with both kunai and jutsu. |
+| **Hatake Kakashi** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Hatake%20Kakashi/Stance%20Right/StanceRight1.png" width="200"> | The Copy Ninja. Fast, versatile, and lethal with both kunai and jutsu. |
 
 ### Legendary Villains
 | Character | Sprite | Background |
 | :--- | :---: | :--- |
-| **Itachi Uchiha** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Itachi%20Uchiha/Stance%20RIght/StanceRight_0000_sprite_3.png" width="50"> | Master of Genjutsu. A formidable foe awaiting in the later stages. |
-| **Orochimaru** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Orochimaru/Stance%20Right/Orochimaru_0000_sprite_77.png" width="50"> | The Sannin seeking immortality. A dangerous mastermind lurking in the shadows. |
-| **Deidara** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Deidara/Stance%20Right/StanceRight_0006_sprite_1.png" width="50"> | The explosion artist. Watch out for his clay creations! |
-| **Sasori** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sasori/Stance%20Right/Stance%20Right_0.png" width="50"> | The master puppeteer. His mechanical strikes are ruthless. |
+| **Itachi Uchiha** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Itachi%20Uchiha/Stance%20RIght/StanceRight_0000_sprite_3.png" width="200"> | Master of Genjutsu. A formidable foe awaiting in the later stages. |
+| **Orochimaru** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Orochimaru/Stance%20Right/Orochimaru_0000_sprite_77.png" width="200"> | The Sannin seeking immortality. A dangerous mastermind lurking in the shadows. |
+| **Deidara** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Deidara/Stance%20Right/StanceRight_0006_sprite_1.png" width="200"> | The explosion artist. Watch out for his clay creations! |
+| **Sasori** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sasori/Stance%20Right/Stance%20Right_0.png" width="200"> | The master puppeteer. His mechanical strikes are ruthless. |
 
 ### Minions & Machines
 | Character | Sprite | Description |
 | :--- | :---: | :--- |
-| **Puppet Enemy** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Puppet%20Enemy/Right/Right_0.png" width="50"> | Mechanical creations controlled by strings. Unrelenting and resilient. |
-| **Sand Enemy** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sand%20Enemy/Stance%20Right/Right_0005_sprite_1.png" width="50"> | Standard grunts of the Sand Village. Strength in numbers. |
+| **Puppet Enemy** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Puppet%20Enemy/Right/Right_0.png" width="200"> | Mechanical creations controlled by strings. Unrelenting and resilient. |
+| **Sand Enemy** | <img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Images/Sprites/Sand%20Enemy/Stance%20Right/Right_0005_sprite_1.png" width="200"> | Standard grunts of the Sand Village. Strength in numbers. |
 
 ---
 
@@ -101,19 +101,26 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### **Main Menu**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Menu.jpeg" width="400">
-
+<div align="center">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Menu.jpeg" width=100%>
+<hr>
+    
 ### **Tactical Sudoku Gate**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Sudoku.jpeg" width="400">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Sudoku.jpeg" width=100%>
+<hr>
 
 ### **Gameplay: Arena Battle**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_2.jpeg" width="400">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_2.jpeg" width=100%>
+<hr>
 
 ### **Environmental Detail**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_1(2).jpeg" width="400">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Level_1(2).jpeg" width=100%>
+<hr>
 
 ### **Secret Victory Codes**
-<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Code.jpg" width="400">
+<img src="DhakaRetroMetro_v1.0.2/Dhaka_Retro_Metro/Screen%20Shots/Code.jpg" width=100%>
+</div>
+<br>
 
 ## Youtube Link
 [Dhaka Retro Metro Gameplay Video](https://youtu.be/DIpeKuX1OBg?si=6HZOx7K42rnKNbEN)
